@@ -1,4 +1,4 @@
-module github.com/mistifyio/go-zfs/v3
+module github.com/ebostijancic/go-zfs/v3
 
 go 1.14
 
