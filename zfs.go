@@ -317,7 +317,7 @@ func (d *Dataset) GetProperty(key string) (string, error) {
 		return "", err
 	}
 
-	return out[1][2], nil
+	return out[0][2], nil
 }
 
 // Rename renames a dataset.
