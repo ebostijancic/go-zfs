@@ -1,4 +1,4 @@
-module github.com/ebostijancic/go-zfs/v1
+module github.com/ebostijancic/go-zfs
 
 go 1.14
 
